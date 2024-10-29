@@ -1,16 +1,7 @@
 Overview
 This project aims to classify individuals' annual incomes based on various influential factors such as education level, age, gender, and occupation. The dataset contains labeled income categories (≤50K or >50K), providing a foundation for applying machine learning techniques to predict income classification.
 
-Table of Contents
-Features
-Installation
-Usage
-Data Cleaning and Preprocessing
-Modeling
-Results
-Contributing
-License
-Features
+
 Data Exploration: Utilize Pandas and visualization libraries to understand the dataset.
 Data Cleaning: Handle missing values and duplicate entries, ensuring a clean dataset for analysis.
 Feature Engineering: Create new features or modify existing ones to improve model performance.
